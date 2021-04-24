@@ -1,0 +1,13 @@
+=== Software === 
+python        : 3.7.10
+fastai        : 1.0.61
+fastprogress  : 0.2.7
+torch         : 1.7.1+cu110
+nvidia driver : 450.119
+torch cuda    : 11.0 / is available
+torch cudnn   : 8005 / is enabled
+
+=== Hardware === 
+nvidia gpus   : 1
+torch devices : 1
+  - gpu0      : 4046MB | GeForce 940M
